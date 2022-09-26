@@ -1,0 +1,6 @@
+#ignorar la carpeta node_modules
+proyecto/node_modules
+#ignorar nodemodules de el server
+Server/node_modules
+# Ignora todos los archivos de texto
+*.txt
